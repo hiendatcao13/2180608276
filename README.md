@@ -8,5 +8,6 @@ Name Application: Vocabulary Flash Card LDD
 | Definition of Done   | All Acceptance Criteria have been met. <br> The vocabulary quiz has been tested and is error-free.<br> The vocabulary quiz has been deployed and is stable.<br> Unit Test passed                                                    <br>Code Reviewed                                                                                                                 |
 | Owner                | Responsible person: Linh Dang                                                                                                 |
 | Iteration            | Iteration: Sprint 2 weeks                                                                                                     |
-| Estimate             | Estimate: 5 point                                                                                                              |
-|                      |         
+| Estimate             | Estimate: 5 point                                                                                                              |  |   
+|
+![UI_Test_Vocabulary](2180608877.png)
