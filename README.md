@@ -23,6 +23,7 @@
 |**Owner:**| Dung \| Owner |
 |**Itergration:**| 2 weeks|
 |**Estimate:**| 2 Points|
+![add new card interface](https://github.com/hiendatcao13/2180608276/blob/2180607359/2180607359.png)
 
 # 2180608877
 # App Vocabulary Flashcard LDD #
@@ -36,3 +37,6 @@
 | Iteration            | Iteration: Sprint 2 weeks                                                                                                     |
 | Estimate             | Estimate: 5 point                                                                                                              |
 |                      |         
+
+
+
