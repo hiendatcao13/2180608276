@@ -25,7 +25,7 @@
 |**Estimate:**| 2 Points|
 
 ![add new card interface](2180607359.png)
-
+![Test_case_Add](https://github.com/hiendatcao13/2180608276/blob/main/Test_case_2180607359.png?raw=true)
 #2180608877
 
 | User Story Title:    | Learner Test Vocabulary                                                                                                                                                                                                           |
