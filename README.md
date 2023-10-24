@@ -38,8 +38,6 @@
 | Estimate             | Estimate: 4 point                                                                                                                                                                                                         |
 |                      |
 
-![Test Vocabulary UI](2180608877_Linh.png)
 
---------------------------------------------------------------------------------
 # Test Vocabulary UI
 ![Test Vocabulary UI](2180608877.png)
