@@ -1,4 +1,4 @@
-![image](https://github.com/hiendatcao13/2180608276/assets/77262406/ba280e3f-3988-4d77-ab47-54c3d9b1c1ad)# 2180608276
+# 2180608276
 # App Vocabulary Flashcard LDD #
 
 | Title:                | Learner classify Vocabularies Into Categories And Types      |
