@@ -1,13 +1,13 @@
 # 2180608877
-Name Application: Vocabulary Flash Card LDD
 
-| User Story Title:    | Test Vocabulary                                                                                                               |
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Value Statement:     | As a learner, I want to test my knowledge through vocabulary tests, so that I can view my progress.                         |
-| Acceptance Criteria: | **_Acceptance Citerion :_**  <br> Given that learned start a quiz from the application  <br> When they review all vocabularied that they have learned <br> Then they can view all vocabularies that they don't remember<br> 
-| Definition of Done   | All Acceptance Criteria have been met. <br> The vocabulary quiz has been tested and is error-free.<br> The vocabulary quiz has been deployed and is stable.<br> Unit Test passed                                                    <br>Code Reviewed                                                                                                                 |
-| Owner                | Responsible person: Linh Dang                                                                                                 |
-| Iteration            | Iteration: Sprint 2 weeks                                                                                                     |
-| Estimate             | Estimate: 5 point                                                                                                              |  |   
-|
-![UI_Test_Vocabulary](2180608877.png)
+| User Story Title:    | Learner Test Vocabulary                                                                                                                                                                                                           |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Value Statement:     | As a learner, I want to test my knowledge through vocabulary tests, so that I can view my progress.                                                                                                                       |
+| Acceptance Criteria: | **_Scenario 1 :_** <br> Given that learned start a quiz from the application <br> When they review all vocabularied that they have learned <br> Then they can view all vocabularies that they don't remember<br> |
+| Definition of Done   | Acceptance Criteria Met.<br>  Test Cases Passed.<br>  Package Into Specific Folders.<br>  Synchronize Folders Between Devices.<br>  Show Topic List.<br>   Code Reviewed.<br>  Product Owner Accepts User Story.                        |
+| Owner                | Responsible person: Linh Dang                                                                                                                                                                                             |
+| Iteration            | Iteration: Sprint 1 weeks                                                                                                                                                                                                 |
+| Estimate             | Estimate: 4 point                                                                                                                                                                                                         |
+--------------------------------------------------------------------------------
+# Test Vocabulary UI
+![Test Vocabulary UI](2180608877.png)
