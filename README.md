@@ -15,10 +15,10 @@
 # 2180607359
 # App Vocabulary Flashcard LDD #
 
-| **Title:**|Learner create Flashcard |
+| **Title:**|Learner Create Flashcard |
 | :----- | :---------- |
-| **Value Statment:**  | As a learner, I want to create flashcards with definitions and examples ,so I can review and improve my vocabulary |
-|**Acceptance Criteria:**|**_Acceptance Criterion:_**  </br> Given that create a new vocabulary card </br> When the leaner clicks on the New button </br> Then the property dialog box appears </br>   and learner can fill in new words with explanations, choose categories and save| 
+| **Value Statment:**  | As a learner, I want to create a new flashcard with definitions and examples ,so I can view my vocabulary |
+|**Acceptance Criteria:**|**_Scenario 1:_**  </br> Given create a new vocabulary card </br> When the leaner clicks on the Add button </br> Then the property dialog box appears </br>   **_Scenario 2:_** </br>Learner can fill in new words with describes, choose a categorie </br> When the learner clicks on the Save button </br> Then the new word will be saved to the database| 
 |**Definition of Done:**| - Unit Tests Passed </br>- Acceptance Criteria Met </br>- Code Reviewed </br>- Functional Tests Passed </br>- Non-Functional Requirements Met </br>- Product Owner Accepts User Story |    
 |**Owner:**| Dung \| Owner |
 |**Itergration:**| 2 weeks|
