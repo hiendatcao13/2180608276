@@ -3,8 +3,8 @@
 
 | Title:                | Learner classify Vocabularies Into Categories And Types      |
 | :-------------------- | :--------------------------------------------------- |
-| Value Statement:      | As a learner, I want to choose a topic, so that I can learn all vocabularies into it. 
-| Acceptance Criteria   | **_Scenerio 1:_**</br> Given that vocabularies classified according to topics and types.</br> When learners click topic in combobox and choose word in the list.</br> -> Then they view that word and learn.
+| Value Statement:      | As a learner, I want to choose a topic, so that I can view all vocabularies and choose one to learn. 
+| Acceptance Criteria   | **_Scenerio 1:_**</br> Given that vocabularies classified according to topics and types.</br> When learners choose topic in combobox.</br> -> Then they view all topics and choose one.</br>**_Scenerio 2:_**</br> Given that topic is picked up in combobox.</br> When learner click on word of that category in a datagridview.</br> -> Then they view all definition, example and picture about it.
 | Defintion of Done     |  - Acceptance Criteria Met</br> - Test Cases Passed</br> - Package Into Specific Folders</br> - Synchronize Folders Between Devices</br> - Show Topic List</br>  - Code Reviewed</br> - Product Owner Accepts User Story
 | Owner                 | Cao Hien Dat - Owner                                 |
 | Iteration             | Unsheduled                                           |
